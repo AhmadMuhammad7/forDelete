@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="887405e2-2b77-48d2-b944-f64cb11e5079" name="Default Changelist" comment="" />
+    <list default="true" id="887405e2-2b77-48d2-b944-f64cb11e5079" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,7 +19,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="2AcLimm7FlDdzrL55Lrs8w9XMwD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -25,6 +32,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
   </component>
@@ -55,6 +63,7 @@
       <workItem from="1656083396434" duration="2551000" />
       <workItem from="1656338885756" duration="5896000" />
       <workItem from="1656913341653" duration="7000" />
+      <workItem from="1666017297806" duration="965000" />
     </task>
     <servers />
   </component>
@@ -62,21 +71,9 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="441" y="167" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1655479884319">
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1666018916711">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="441" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1655479884319" />
-    <state x="318" y="142" key="EditFileWatcherDialog" timestamp="1655304114552">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="318" y="142" key="EditFileWatcherDialog/0.0.1366.728@0.0.1366.728" timestamp="1655304114552" />
-    <state x="339" y="162" key="run.anything.popup" timestamp="1656342887719">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1656342887719" />
-    <state x="405" y="276" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1655731935294">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="405" y="276" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1366.728@0.0.1366.728" timestamp="1655731935294" />
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1666018916711" />
   </component>
 </project>
