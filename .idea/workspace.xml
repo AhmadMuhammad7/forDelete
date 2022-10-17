@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="887405e2-2b77-48d2-b944-f64cb11e5079" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="SCSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2AcLimm7FlDdzrL55Lrs8w9XMwD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\webstorm(8)\scss" />
+      <recent name="C:\Users\User\Desktop\webstorm(8)\src\css" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="887405e2-2b77-48d2-b944-f64cb11e5079" name="Default Changelist" comment="" />
+      <created>1655304055721</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655304055721</updated>
+      <workItem from="1655304057011" duration="5616000" />
+      <workItem from="1655474897342" duration="7870000" />
+      <workItem from="1655571133167" duration="248000" />
+      <workItem from="1655730231948" duration="2528000" />
+      <workItem from="1655733990967" duration="6503000" />
+      <workItem from="1655868441609" duration="754000" />
+      <workItem from="1655869214036" duration="7090000" />
+      <workItem from="1655973149027" duration="7092000" />
+      <workItem from="1656083396434" duration="2551000" />
+      <workItem from="1656338885756" duration="5896000" />
+      <workItem from="1656913341653" duration="7000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="441" y="167" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1655479884319">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="441" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1655479884319" />
+    <state x="318" y="142" key="EditFileWatcherDialog" timestamp="1655304114552">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="318" y="142" key="EditFileWatcherDialog/0.0.1366.728@0.0.1366.728" timestamp="1655304114552" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1656342887719">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1656342887719" />
+    <state x="405" y="276" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1655731935294">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="405" y="276" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1366.728@0.0.1366.728" timestamp="1655731935294" />
+  </component>
+</project>
